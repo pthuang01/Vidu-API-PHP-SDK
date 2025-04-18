@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor/vidu-php-sdk",
+    "name": "drm-studio/vidu-php-sdk",
     "description": "Vidu API PHP SDK",
     "type": "library",
     "license": "MIT",
